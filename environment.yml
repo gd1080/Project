@@ -1,0 +1,7 @@
+name: seasonality
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+
+
