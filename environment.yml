@@ -3,5 +3,4 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - statistics
 
