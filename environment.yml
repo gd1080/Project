@@ -1,4 +1,4 @@
-name: hydro
+name: seasonality
 dependencies:
   - numpy
   - matplotlib
